@@ -1,0 +1,8 @@
+webservice/greeting/GreetingService.class
+webservice/hello/HelloService.class
+webservice/fibonacci/FibonacciView.class
+webservice/fibonacci/FibonacciService.class
+webservice/WSServer.class
+webservice/greeting/GreetingView.class
+webservice/WebServiceMain.class
+webservice/hello/HelloView.class
